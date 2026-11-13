@@ -7,6 +7,7 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
+    "protect": "node scripts/protect-index.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
@@ -19,6 +20,7 @@
     "@mathjax/src": "^4.1.3",
     "beautiful-mermaid": "^1.1.3",
     "katex": "^0.18.5",
+    "pagecrypt": "^7.1.0",
     "shiki": "^4.4.3"
   }
 }
