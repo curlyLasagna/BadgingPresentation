@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "skills": {
+    "marp-slide": {
+      "source": "softaworks/agent-toolkit",
+      "sourceType": "github",
+      "skillPath": "skills/marp-slide/SKILL.md",
+      "computedHash": "46f96b839987e9e33d8fb1f15d1227bcc21cbd21d4e803a51d28b0952c29ac6d"
+    },
+    "mermaid": {
+      "source": "WH-2099/mermaid-skill",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/mermaid/SKILL.md",
+      "computedHash": "59f30f279fb6c21d60ecc419bd71c713d2e2a6b901a4429f9983bd4cd17fc516"
+    },
+    "mermaid-diagrams": {
+      "source": "softaworks/agent-toolkit",
+      "sourceType": "github",
+      "skillPath": "skills/mermaid-diagrams/SKILL.md",
+      "computedHash": "c425d7bc17756e5c0538e57286a008b18a45d0967401695c003692badf0cb37a"
+    }
+  }
+}
