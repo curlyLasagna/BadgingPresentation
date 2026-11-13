@@ -210,8 +210,7 @@ flowchart LR
 # Missing Pieces
 
 - Mapping between evidence and KSAs 
-- What evidence is composed of
-
+- What is an evidence and what is it composed of?
 
 ---
 
